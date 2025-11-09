@@ -57,12 +57,6 @@ Through this project, I learned how to:
 
 ---
 
-## 🖼️ Dashboard Preview
-![Dashboard Screenshot 1](image1.png)
-![Dashboard Screenshot 2](image2.png)
-
----
-
 ## 🏷️ Tags
 `Power BI` `Data Analytics` `Dashboard` `Business Intelligence` `Visualization` `MealDash`
 
