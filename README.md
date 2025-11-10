@@ -26,8 +26,6 @@ To design an interactive and insightful **Food Orders Tracking Dashboard** that 
 - Visuals showing customer **Marital Status**, **Education**, **Occupation**, and **Income**  
 - Interactive **City filter** for regional analysis  
 
----
-
 ## ⚙️ Tools & Technologies
 - **Power BI** – For dashboard design and visualization  
 - **Power Query** – For data cleaning and transformation  
